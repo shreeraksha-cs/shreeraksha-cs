@@ -1,4 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shree Raksha 👋</h1>
+
+<p align="center">
+🎓 B.Tech CSE @ PES University <br>
+💡 Passionate about solving problems with code and building impactful tech <br>
+🌱 Exploring AI in Cybersecurity, and Full Stack Development <br>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: `Python`, `C`, `JavaScript`
+- 🌐 Web Technologies: `HTML`, `CSS`, `React.js`, `Node.js`, `Express.js`
+- 🛢️ Databases: `MongoDB`
+- 🔧 Tools: `VS Code`, `Cisco Packet Tracer`
+
+---
+
+## 🎯 Currently Working On
+
+- Sharpening DSA skills through Leetcode and problem-solving  
+- Building full-stack web apps using MERN stack  
+- Exploring AI/ML use-cases in security
+
+---
 
 <!--
 **shreeraksha-cs/shreeraksha-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
